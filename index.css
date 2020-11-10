@@ -1,7 +1,7 @@
 #clockContainer{
     margin: auto;
-    height: 30vw;
-    width: 30vw;
+    height: 40vw;
+    width: 40vw;
     background: url(clock.png) no-repeat;
     background-size: 100%;
 }
